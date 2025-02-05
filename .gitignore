@@ -1,0 +1,21 @@
+# Python sanal ortamı
+venv/
+__pycache__/
+
+# IDE dosyaları
+.vscode/
+.idea/
+
+# Çıkış dosyaları, loglar ve temp dosyaları
+*.log
+*.tmp
+*.swp
+
+# Çalışma sırasında oluşan geçici dosyalar
+*.pyc
+.DS_Store
+
+# Ortak Config Dosyaları
+.env
+config.json
+secrets.py
